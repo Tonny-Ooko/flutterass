@@ -1,0 +1,8 @@
+name: flutterass
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.5
+  http: ^1.2.0
+environment:
+  sdk: '>=3.2.0 <4.0.0'
